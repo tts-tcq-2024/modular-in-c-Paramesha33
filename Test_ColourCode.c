@@ -1,8 +1,8 @@
 #include <string.h>
 #include <stdio.h>
 #include <assert.h>
-#include "test_colour_pair.h"
-#include "referance_manual.h"
+#include "Test_ColourCode.h"
+#include "ManualReference.h"
  
  
 void test_pair_number_to_color(int pair_number,
