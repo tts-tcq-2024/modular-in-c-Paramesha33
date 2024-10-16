@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "colourpair.h"
-#include "referance_manual.h"
+#include "ColourCode.h"
+#include "ManualReference.h"
  
 extern const char* major_color_names[5];
  
